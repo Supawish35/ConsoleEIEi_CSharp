@@ -12,3 +12,4 @@ E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\refint\ConsoleEIE.
 E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\ConsoleEIE.pdb
 E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\ConsoleEIE.genruntimeconfig.cache
 E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\ref\ConsoleEIE.dll
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\ConsoleEIE.sourcelink.json
