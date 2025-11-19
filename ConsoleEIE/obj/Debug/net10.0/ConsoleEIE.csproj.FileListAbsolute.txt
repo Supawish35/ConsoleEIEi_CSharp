@@ -1,0 +1,14 @@
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\bin\Debug\net10.0\ConsoleEIE.exe
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\bin\Debug\net10.0\ConsoleEIE.deps.json
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\bin\Debug\net10.0\ConsoleEIE.runtimeconfig.json
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\bin\Debug\net10.0\ConsoleEIE.dll
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\bin\Debug\net10.0\ConsoleEIE.pdb
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\ConsoleEIE.GeneratedMSBuildEditorConfig.editorconfig
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\ConsoleEIE.AssemblyInfoInputs.cache
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\ConsoleEIE.AssemblyInfo.cs
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\ConsoleEIE.csproj.CoreCompileInputs.cache
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\ConsoleEIE.dll
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\refint\ConsoleEIE.dll
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\ConsoleEIE.pdb
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\ConsoleEIE.genruntimeconfig.cache
+E:\all work\coding\C#\ConsoleEIE\ConsoleEIE\obj\Debug\net10.0\ref\ConsoleEIE.dll
